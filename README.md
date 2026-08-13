@@ -1,4 +1,4 @@
-# Sri Aurobindo — Proximity Search
+# Collected Works of Sri Aurobindo — Proximity Search
 
 A desktop app for searching the Collected Works of Sri Aurobindo (or any
 folder of PDFs) for words or phrases that occur near each other — "love"

@@ -7,7 +7,7 @@ page, chapter, or line boundary.
 
 Works the same way on **Windows, macOS, and Linux**.
 
-## What changed in this version
+## What changed in this version (compared to previous versions not included in this repo)
 
 - **No more hard-coded path.** The app used to look for
   `~/Desktop/MISC/Collected Works of Sri Aurobindo`, which only made sense on

@@ -95,3 +95,7 @@ to the other machine, follow the Setup steps above for that OS, and point it
 at that machine's copy of the PDF folder the first time it runs. The search
 index is rebuilt locally on each device — nothing about it needs to be
 copied over.
+
+
+---
+*Use the program file entitled "PROXIMITY SEARCH - CWSA - FINAL.py".
